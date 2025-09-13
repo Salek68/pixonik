@@ -1,12 +1,5 @@
 fastapi
 uvicorn
 python-multipart
-opencv-python-headless
-numpy
-ultralytics
-torch
-torchvision
-torchaudio
 transformers
-sentencepiece
-reportlab
+torch
